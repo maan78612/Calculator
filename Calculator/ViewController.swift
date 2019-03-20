@@ -46,6 +46,7 @@ class ViewController: UIViewController {
         
     }
     
+    // MARK: Functions
     
     @IBAction func fuctions(_ sender: UIButton) {
         
